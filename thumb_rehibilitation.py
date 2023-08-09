@@ -1,8 +1,3 @@
-# Physical Therapy Motion Capture Device Script
-# Eng 4
-# Bowie HS
-#Elliot, Siddhu, Jake
-
 # import libraries
 import cv2
 import numpy
